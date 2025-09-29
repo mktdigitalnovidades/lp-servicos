@@ -88,7 +88,7 @@ const CTA: React.FC = () => {
               <div className="relative bg-dark-800/50 backdrop-blur-sm rounded-2xl border border-dark-700/50 hover:border-primary-500/30 transition-all duration-500 hover:shadow-xl hover:shadow-primary-500/10">
                 <div className="p-1 rounded-2xl">
                   <iframe
-                    src="https://typebot.co/ag-ncia-aplica-es-automatik-labs-1-sb3b1dp"
+                    src="https://typebot.co/agencia-aplicacoes-automatik-labs-1"
                     style={{ border: 'none', width: '100%', height: '600px', borderRadius: '12px' }}
                     title="Typebot Form"
                   />
